@@ -1,2 +1,2 @@
 # SensorHumedadArduino
-Código del sensor de humedad en Arduino (ESP32) y envió de los datos a InfluxDB
+Código del sensor de humedad en Arduino (ESP32) y envio de los datos a InfluxDB
